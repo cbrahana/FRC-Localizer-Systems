@@ -1,0 +1,1 @@
+#Converts a pixel into spherical coordinates given image model and pixel
